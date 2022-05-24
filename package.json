@@ -1,0 +1,19 @@
+{
+  "name": "studbud-2022",
+  "version": "1.0.0",
+  "description": "The 2022 StudBud Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edilambsheep/Studbud-2022.git"
+  },
+  "author": "Edison Lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edilambsheep/Studbud-2022/issues"
+  },
+  "homepage": "https://github.com/edilambsheep/Studbud-2022#readme"
+}
